@@ -1,0 +1,2 @@
+filepath_houses = r"C:\Users\aakas\PythonStuff\Regression_udemy\resources\Linear_Regression\House_Price.csv"
+houses = pd.read_csv(filepath_houses)
